@@ -1,2 +1,16 @@
 .vscode/
 venv/
+__pycache__/
+*.pyc
+*.pyo
+*.so
+*.dll
+*.exe
+*.zip
+*.tar
+*.tgz
+*.bz2
+*.xz
+*.gz
+*.rpm
+*.deb
